@@ -1,0 +1,37 @@
+img{
+	width:300px;
+	height: 300px;
+	position: absolute;
+
+}
+span{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin:auto;
+	left: 0;
+	right: 0;
+	top: 100px;
+}
+#image{
+	width:300px;
+	height: 300px;
+	position: absolute;
+}
+paper-ripple{
+	color: teal;
+}
+h4{
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.button{
+	position: relative;
+	width: 300px;
+	height: 200px;
+	margin:auto;
+	left: 0;
+	right: 0;
+	top: 150px;
+}
